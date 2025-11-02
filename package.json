@@ -2,15 +2,7 @@
   "name": "lilnote",
   "description": "tiny lil note-taking app",
   "version": "2.1.0",
-  "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
-  },
-  "funding": {
-    "type": "ko-fi",
-    "url": "https://ko-fi.com/zacanger"
-  },
+  "author": "zautumnz",
   "license": "MIT",
   "main": "lilnote.js",
   "preferGlobal": true,
@@ -20,12 +12,12 @@
     "preversion": "npm t",
     "test": "standard"
   },
-  "homepage": "https://github.com/zacanger/lilnote#readme",
+  "homepage": "https://github.com/zautumnz/lilnote#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/lilnote.git"
+    "url": "https://github.com/zautumnz/lilnote.git"
   },
-  "bugs": "https://github.com/zacanger/lilnote/issues",
+  "bugs": "https://github.com/zautumnz/lilnote/issues",
   "keywords": [
     "cli",
     "json",
